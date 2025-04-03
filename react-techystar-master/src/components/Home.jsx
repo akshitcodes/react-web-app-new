@@ -33,20 +33,7 @@ const Home = () => {
         <div>
           <h1>Who we are?</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
-            officiis hic illo quos sit commodi, aut magnam odio eligendi? Totam
-            quis officiis fugit sunt dolores nostrum tenetur iusto est odio
-            mollitia. Dolor placeat repellendus officia aspernatur dolorum
-            harum. Dolorem cumque quaerat eius qui deserunt ullam laudantium
-            quia tempore. Dignissimos esse sequi numquam est ipsam nemo,
-            voluptas vel recusandae iste aspernatur qui quasi, commodi, atque
-            ipsa dolores tempore asperiores? Dolores soluta placeat molestiae
-            aperiam, ullam officia fugiat corrupti odio, suscipit ipsum cum vel
-            nemo. Ratione quo tempore fugit quaerat! Facilis beatae impedit
-            similique maxime praesentium sunt unde necessitatibus voluptates
-            ipsa, et, numquam reiciendis eveniet? Aliquid nemo nesciunt placeat,
-            qui fuga quae repellat sunt, non natus, iure ab officia rem ipsa cum
-            sed cumque corporis voluptate quibusdam nostrum quod saepe
+          Welcome to TechyStar Software Solutions, your trusted partner for innovative technology solutions. At TechyStar, we specialize in delivering cutting-edge software services tailored to meet your business needs. Our team of experienced developers, designers, and project managers work collaboratively to provide top-notch solutions that drive growth and efficiency for your organization. Whether you're looking to develop a custom software application, enhance your existing systems, or leverage the power of artificial intelligence and data analytics, we have the expertise to turn your vision into reality. With a focus on quality, reliability, and customer satisfaction, we are committed to delivering solutions that exceed expectations. Partner with TechyStar Software Solutions today and experience the difference in technology excellence
           </p>
         </div>
       </div>
